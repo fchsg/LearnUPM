@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.coffee.upm-git-extension": "https://github.com/mob-sakai/UpmGitExtension.git#0.9.1",
     "com.sg.touch": "https://github.com/fchsg/SGTouch.git#upm",
     "com.unity.ads": "2.0.8",
     "com.unity.analytics": "3.2.2",
@@ -39,6 +40,10 @@
     "com.unity.modules.xr": "1.0.0"
   },
   "lock": {
+    "com.coffee.upm-git-extension": {
+      "hash": "79fa88282ae1233e4841d87fd256b80f13cd8b62",
+      "revision": "0.9.1"
+    },
     "com.sg.touch": {
       "hash": "7c16cd16a55dd2e106543ea3f9cbb415aec1cfab",
       "revision": "upm"
